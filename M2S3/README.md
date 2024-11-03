@@ -1,4 +1,4 @@
-![Vinho Verde](images/vinho_verde.png)<br>
+![Vinho Verde](images/readme_header.png)<br>
 # VINHO VERDE TINTO - AN EXPLANATORY MODEL
 
 ## IMPORTANT NOTICE
