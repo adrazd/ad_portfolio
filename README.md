@@ -1,2 +1,1 @@
-# public-porfolio
-Public repository
+# This is public repository of adrazd
