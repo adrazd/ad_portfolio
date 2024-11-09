@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "wine-quality-model"
+version = "0.1.0"
+description = ""
+authors = ["Andrius Drazdys <andrius.drazdys@outlook.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.13"
+pandas = "^2.2.3"
+numpy = "^2.1.3"
+plotly = "^5.24.1"
+statsmodels = "^0.14.4"
+scikit-learn = "^1.5.2"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
+jupyterlab = "^4.3.0"
+black = "^24.10.0"
+isort = "^5.13.2"
+jupyterlab-code-formatter = "^3.0.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
