@@ -1,6 +1,5 @@
 ![Train with cookie cats and fast food](images/2projects_train.png)<br>
-This is a README file for double project at Turing
-DS Module 2 Sprint 2
+This is a README file for AB testing doubleheader
 
 ### Description
 In this sprint learners were required to analyze two datasets.
