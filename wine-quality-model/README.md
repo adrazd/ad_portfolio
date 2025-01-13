@@ -51,7 +51,7 @@ statsmodels==0.14.4
 - 'images' folder with images relevant for the project
 - 'red_wine_quality_model.ipynb' file with the project itself
 - 'requirements.txt' file with list of dependencies
-- 'LICENCE.txt' file containing license description
+- 'LICENsE.txt' file containing license description
 - 'README.md' - this file
 
 ## License
