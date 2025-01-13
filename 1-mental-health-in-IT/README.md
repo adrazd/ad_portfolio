@@ -1,5 +1,4 @@
-This is readme file for Module 2 Sprint 1 project by Andrius Drazdys | adrazd
-Project name: Mental Health in Tech Industry 2014-2019
+Mental Health in Tech Industry 2014-2019 by Andrius Drazdys | adrazd
 
 ### Introduction
 This project seeks to explore the state of mental health in the tech sector, with a specific focus on gender differences in how these challenges are addressed in the US and Europe. The aim is to understand how men and women in tech experience and report mental health issues differently, and how their respective employers respond to these concerns. By analyzing both the perceptions of mental health and the support systems available to employees, we hope to provide a picture of the mental health needs for men and women in the tech sector.
