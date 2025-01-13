@@ -1,0 +1,32 @@
+QuestionID,Question,SurveysCovered
+1,What is your age?,"2014,2016,2017,2018,2019"
+2,What is your gender?,"2014,2016,2017,2018,2019"
+3,What country do you live in?,"2014,2016,2017,2018,2019"
+4,"If you live in the United States, which state or territory do you live in?","2014,2016,2017,2018,2019"
+5,Are you self-employed?,"2014,2016,2017,2018,2019"
+8,How many employees does your company or organization have?,"2014,2016,2017,2018,2019"
+9,Is your employer primarily a tech company/organization?,"2014,2016,2017,2018,2019"
+10,Does your employer provide mental health benefits as part of healthcare coverage?,"2014,2016,2017,2018,2019"
+11,Is your anonymity protected if you choose to take advantage of mental health or substance abuse treatment resources provided by your employer?,"2014,2016,2017,2018,2019"
+15,"Has your employer ever formally discussed mental health (for example, as part of a wellness campaign or other official communication)?","2016,2017,2018,2019"
+16,Does your employer offer resources to learn more about mental health disorders and options for seeking help?,"2016,2017,2018,2019"
+17,"If a mental health issue prompted you to request a medical leave from work, how easy or difficult would it be to ask for that leave?","2016,2017,2018,2019"
+48,"If you have a mental health disorder, how often do you feel that it interferes with your work when being treated effectively?","2016,2017,2018,2019"
+49,"If you have a mental health disorder, how often do you feel that it interferes with your work when not being treated effectively (i.e., when you are experiencing symptoms)?","2016,2017,2018,2019"
+50,What country do you work in?,"2016,2017,2018,2019"
+51,What US state or territory do you work in?,"2016,2017,2018,2019"
+56,Have you observed or experienced an unsupportive or badly handled response to a mental health issue in your current or previous workplace?,"2016,2017,2018,2019"
+58,Have you ever discussed your mental health with your employer?,"2017,2018,2019"
+59,"Describe the conversation you had with your employer about your mental health, including their reactions and what actions were taken to address your mental health issue/questions.","2017,2018,2019"
+64,"Overall, how much importance does your employer place on physical health?","2017,2018,2019"
+65,"Overall, how much importance does your employer place on mental health?","2017,2018,2019"
+78,Are you openly identified at work as a person with a mental health issue?,"2017,2018,2019"
+83,Have you observed or experienced supportive or well handled response to a mental health issue in your current or previous workplace?,"2017,2018,2019"
+85,"Overall, how well do you think the tech industry supports employees with mental health issues?","2017,2018,2019"
+89,What is your race?,"2017,2018,2019"
+90,Do you think that discussing a physical health issue with your employer would have negative consequences?,"2014,2016"
+91,Do you feel that your employer takes mental health as seriously as physical health?,"2014,2016"
+98,Do you think that discussing a mental health issue with your employer would have negative consequences?,2014
+104,Do you think that discussing a mental health disorder with your employer would have negative consequences?,2016
+115,"If yes, what condition(s) have you been diagnosed with?",2016
+116,"If maybe, what condition(s) do you believe you have?",2016
