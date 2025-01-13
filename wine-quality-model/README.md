@@ -35,23 +35,25 @@ into the results. A more extensive and balanced dataset would support a thorough
 improve the stability and performance of the model in predicting wine quality.
 
 ## Versions of Python and Libraries Used
-python==3.12.5
-kaleido==0.1.0.post1
-matplotlib==3.9.2
-numpy==2.1.2
-pandas==2.2.3
-plotly==5.24.1
-scikit-learn==1.5.2
-scipy==1.14.1
-statsmodels==0.14.4
+python==3.12.5<br>
+kaleido==0.1.0.post1<br>
+matplotlib==3.9.2<br>
+numpy==2.1.2<br>
+pandas==2.2.3<br>
+plotly==5.24.1<br>
+scikit-learn==1.5.2<br>
+scipy==1.14.1<br>
+statsmodels==0.14.4<br>
 
 ## Contents Of Project Folder
 - 'data' folder with dataset
 - 'helpers' folder with helper functions
 - 'images' folder with images relevant for the project
 - 'red_wine_quality_model.ipynb' file with the project itself
-- 'requirements.txt' file with list of dependencies
-- 'LICENsE.txt' file containing license description
+- 'poetry.lock' poetry lock file
+- 'pyproject.toml' poetry file with dependencies
+- '.python-version' pyenv configuration file
+- 'LICENSE.txt' file containing license description
 - 'README.md' - this file
 
 ## License
