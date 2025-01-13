@@ -1,7 +1,7 @@
 ## About Me
 Name: Andrius Drazdys<br>
 Age: 52 years<br>
-Location: Vilnius, Lithuania
+Location: Vilnius, Lithuania<br>
 Occupation: On a career change path (Data Science learner at Turing College, Vilnius)<br>
 Background: Accounting and finance<br>
 E-mail: andrius.drazdys@outlook.com<br>
