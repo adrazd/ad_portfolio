@@ -2,8 +2,8 @@
 This is a README file for AB testing doubleheader
 
 ### Description
-In this sprint learners were required to analyze two datasets.
-Each of the datasets should be in a separate notebook.
+Two different AB testing datasets are analyzed here.
+Each of the datasets is in a separate notebook.
 As the datasets are not related, the notebooks and project related files
 are placed in separate folders, which can be found in this folder.
 
