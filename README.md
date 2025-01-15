@@ -1,6 +1,5 @@
 ## About Me
 Name: Andrius Drazdys<br>
-Contact: andrius.drazdys@outlook.com<br>
 Location: Vilnius, Lithuania<br>
 Occupation: On a career transition path to Data Scientist<br>
 Background: Accounting and finance<br>
